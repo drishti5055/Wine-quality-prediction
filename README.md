@@ -1,5 +1,5 @@
 # Wine Quality Prediction
-Use multiple machine learning algorithms to predict the wine quality.
+Used multiple machine learning algorithms to predict the wine quality.
 
 
 ## Goal
