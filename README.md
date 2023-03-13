@@ -1,4 +1,4 @@
-# Wine Quality Project
+# Wine Quality Prediction
 Use multiple machine learning algorithms to predict the wine quality.
 
 
